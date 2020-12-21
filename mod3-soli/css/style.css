@@ -1,0 +1,40 @@
+body {
+    font-size: 16px;
+    color: white;
+    background-color: beige;
+    font-family: "Comic Sans MS" "Comic Sans" cursive;
+}
+
+#header-nav {
+    background-color: gray;
+    border-radius: 0;
+    border: 0;
+}
+
+#burgerMenu > div {
+    padding: 0;
+    width: 100%;
+}
+
+#nav-list {
+    background-color: beige;
+}
+
+#nav-list div {
+    border: 1px solid black;
+    border-top: 0px;
+}
+
+#title {
+    margin: .5em 0 1em 0;
+}
+
+h2 {
+    text-align: center;
+}
+
+#main-content > .col-xs-12 {
+    background-color: grey;
+    padding: 1em;
+    margin-bottom: 1em;
+}
